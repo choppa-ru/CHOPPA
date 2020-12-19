@@ -6,3 +6,4 @@ A Project to make Minecraft anarchy more enjoyable for everyone
 - XZRC
 
 ![Image]choppa.png
+![url]https://discord.gg/Tjqt7ju3Et
