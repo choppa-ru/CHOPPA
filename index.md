@@ -5,4 +5,5 @@
 ###Current work team:
 -XZRC
 
-![Image]choppa.png
+
+[Image]choppa.png
