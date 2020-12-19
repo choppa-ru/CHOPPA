@@ -1,10 +1,8 @@
-# CHOPPA.RU
+## CHOPPA.RU
 
-## A Project to make Minecraft anarchy more enjoyable for everyone
+A Project to make Minecraft anarchy more enjoyable for everyone
 
+## Current work team:
+- XZRC
 
-###Current work team:
--XZRC
-
-
-[Image]choppa.png
+![Image]choppa.png
